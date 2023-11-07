@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+
+.btn-display {
+    color:rgb(198, 123, 252)te;
+}
